@@ -1,2 +1,2 @@
 # Movieque
-https://nikhilgupta78.github.io/Movieque/
+https://nikhilgupta81.github.io/Movieque/
